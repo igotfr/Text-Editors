@@ -11,11 +11,11 @@
 (electric-pair-mode 1)
 
 (require 'package)
-(add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/") t)
+(add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
 (package-initialize)
 
 (setq package-selected-packages 
-  '(dart-mode lsp-mode lsp-dart lsp-treemacs flycheck company
+  '(lsp-mode flycheck lsp-dart dart-mode haskell-mode flycheck-haskell lsp-haskell lsp-treemacs company neotree
     ;; Optional packages
     lsp-ui company hover))
 
@@ -30,3 +30,9 @@
       company-minimum-prefix-length 1
       lsp-lens-enable t
       lsp-signature-auto-activate nil)
+
+(add-hook 'flycheck-mode-hook #'flycheck-haskell-setup)
+
+(add-to-list 'load-path "/some/path/neotree")
+(require 'neotree)
+(global-set-key [f1] 'neotree-toggle)
