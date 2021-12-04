@@ -15,7 +15,7 @@
 (package-initialize)
 
 (setq package-selected-packages 
-  '(lsp-mode flycheck lsp-dart dart-mode haskell-mode flycheck-haskell lsp-treemacs company neotree
+  '(lsp-mode flycheck lsp-dart dart-mode haskell-mode flycheck-haskell lsp-haskell lsp-treemacs company neotree
     ;; Optional packages
     lsp-ui company hover))
 
