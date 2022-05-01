@@ -1,6 +1,8 @@
 ## Terminus
 ### Installation
 Tools > Command Palette... (Ctrl + Shift + P) > Package Control: Install Package > Terminus
+or
+Preferences > Package Control > Package Control: Install Package > Terminus
 Restart the Sublime
 
 ### Configurations
@@ -34,3 +36,18 @@ Preferences > Package Settings > Terminus > Key Bindings
    }
 ]
 ```
+
+## LSP
+Tools > Command Palette... (Ctrl + Shift + P) > Package Control: Install Package > LSP
+or
+Preferences > Package Control > Package Control: Install Package > LSP
+
+### LSP-rust-analyzer
+Tools > Command Palette... (Ctrl + Shift + P) > Package Control: Install Package > LSP-rust-analyzer
+or
+Preferences > Package Control > Package Control: Install Package > LSP-rust-analyzer
+
+### LSP-file-watcher-chokidar
+Tools > Command Palette... (Ctrl + Shift + P) > Package Control: Install Package > LSP-file-watcher-chokidar
+or
+Preferences > Package Control > Package Control: Install Package > LSP-file-watcher-chokidar
