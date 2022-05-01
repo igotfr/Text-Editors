@@ -7,7 +7,7 @@ or
 Preferences `>` Package Control `>` Package Control: Install Package `>` Terminus
 Restart the Sublime
 
-### Configurations
+### Configuration
 Preferences `>` Package Settings `>` Terminus `>` Command Palette
 on Windows use "cmd.exe" instead "bash"
 ```json
