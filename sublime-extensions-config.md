@@ -47,23 +47,23 @@ or
 
 Preferences `>` Package Control `>` Package Control: Install Package `>` LSP
 
-### LSP-rust-analyzer
-#### Installation
+## LSP-rust-analyzer
+### Installation
 Tools `>` Command Palette... (Ctrl + Shift + P) `>` Package Control: Install Package `>` LSP-rust-analyzer
 
 or
 
 Preferences `>` Package Control `>` Package Control: Install Package `>` LSP-rust-analyzer
 
-#### Configuration
-##### Global Settings
+### Configuration
+#### Global Settings
 Tools `>` Command Palette... (Ctrl + Shift + P) `>` Preferences: LSP-rust-analyzer Settings
 
 or
 
 Preferences `>` Package Settings `>` LSP `>` Servers `>` LSP-rust-analyzer
 
-##### Project-specific Configuration
+#### Project-specific Configuration
 Tools `>` Command Palette... (Ctrl + Shift + P) `>` Project: Edit Project
 ```json
 {
@@ -82,8 +82,8 @@ Tools `>` Command Palette... (Ctrl + Shift + P) `>` Project: Edit Project
 }
 ```
 
-### LSP-file-watcher-chokidar
-#### Installation
+## LSP-file-watcher-chokidar
+### Installation
 Tools `>` Command Palette... (Ctrl + Shift + P) `>` Package Control: Install Package `>` LSP-file-watcher-chokidar
 
 or
