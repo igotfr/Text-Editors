@@ -1,7 +1,9 @@
 ## Terminus
 ### Installation
 Tools `>` Command Palette... (Ctrl + Shift + P) `>` Package Control: Install Package `>` Terminus
+
 or
+
 Preferences `>` Package Control `>` Package Control: Install Package `>` Terminus
 Restart the Sublime
 
@@ -38,6 +40,7 @@ Preferences `>` Package Settings `>` Terminus `>` Key Bindings
 ```
 
 ## LSP
+### Installation
 Tools `>` Command Palette... (Ctrl + Shift + P) `>` Package Control: Install Package `>` LSP
 
 or
@@ -45,13 +48,42 @@ or
 Preferences `>` Package Control `>` Package Control: Install Package `>` LSP
 
 ### LSP-rust-analyzer
+#### Installation
 Tools `>` Command Palette... (Ctrl + Shift + P) `>` Package Control: Install Package `>` LSP-rust-analyzer
 
 or
 
 Preferences `>` Package Control `>` Package Control: Install Package `>` LSP-rust-analyzer
 
+#### Configuration
+##### Global Settings
+Tools `>` Command Palette... (Ctrl + Shift + P) `>` Preferences: LSP-rust-analyzer Settings
+
+or
+
+Preferences `>` Package Settings `>` LSP `>` Servers `>` LSP-rust-analyzer
+
+##### Project-specific Configuration
+Tools `>` Command Palette... (Ctrl + Shift + P) `>` Project: Edit Project
+```json
+{
+    // folders: [
+    //   ...
+    // ]
+    "settings": {
+        "LSP": {
+            "rust-analyzer": {
+                "settings": {
+                    //Setting-here
+                }
+            }
+        }
+    }
+}
+```
+
 ### LSP-file-watcher-chokidar
+#### Installation
 Tools `>` Command Palette... (Ctrl + Shift + P) `>` Package Control: Install Package `>` LSP-file-watcher-chokidar
 
 or
