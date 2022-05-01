@@ -1,12 +1,12 @@
 ## Terminus
 ### Installation
-Tools > Command Palette... (Ctrl + Shift + P) > Package Control: Install Package > Terminus
+Tools `>` Command Palette... (Ctrl + Shift + P) `>` Package Control: Install Package `>` Terminus
 or
-Preferences > Package Control > Package Control: Install Package > Terminus
+Preferences `>` Package Control `>` Package Control: Install Package `>` Terminus
 Restart the Sublime
 
 ### Configurations
-Preferences > Package Settings > Terminus > Command Palette
+Preferences `>` Package Settings `>` Terminus `>` Command Palette
 on Windows use "cmd.exe" instead "bash"
 ```json
 [
@@ -22,7 +22,7 @@ on Windows use "cmd.exe" instead "bash"
    },
 ]
 ```
-Preferences > Package Settings > Terminus > Key Bindings
+Preferences `>` Package Settings `>` Terminus `>` Key Bindings
 ```json
 [
    {
@@ -38,16 +38,22 @@ Preferences > Package Settings > Terminus > Key Bindings
 ```
 
 ## LSP
-Tools > Command Palette... (Ctrl + Shift + P) > Package Control: Install Package > LSP
+Tools `>` Command Palette... (Ctrl + Shift + P) `>` Package Control: Install Package `>` LSP
+
 or
-Preferences > Package Control > Package Control: Install Package > LSP
+
+Preferences `>` Package Control `>` Package Control: Install Package `>` LSP
 
 ### LSP-rust-analyzer
-Tools > Command Palette... (Ctrl + Shift + P) > Package Control: Install Package > LSP-rust-analyzer
+Tools `>` Command Palette... (Ctrl + Shift + P) `>` Package Control: Install Package `>` LSP-rust-analyzer
+
 or
-Preferences > Package Control > Package Control: Install Package > LSP-rust-analyzer
+
+Preferences `>` Package Control `>` Package Control: Install Package `>` LSP-rust-analyzer
 
 ### LSP-file-watcher-chokidar
-Tools > Command Palette... (Ctrl + Shift + P) > Package Control: Install Package > LSP-file-watcher-chokidar
+Tools `>` Command Palette... (Ctrl + Shift + P) `>` Package Control: Install Package `>` LSP-file-watcher-chokidar
+
 or
-Preferences > Package Control > Package Control: Install Package > LSP-file-watcher-chokidar
+
+Preferences `>` Package Control `>` Package Control: Install Package `>` LSP-file-watcher-chokidar
