@@ -55,4 +55,9 @@ individualmente e com opções visuais clicáveis pra executar essas tarefas. El
 
 Vi qe a Barra de Ferramentas principal pode ser oculta, mas a outra não, e não gostei de onde as opções pra isso foram colocadas, elas ficam meio escondidas
 
-## 4 - 
+## 4 - multi-projetos em uma única janela
+- [ ] estado
+
+4. no lapce, sempre qe abro um novo Projeto, ele não abre uma nova janela como no kate, fica tudo na mesma janela, assim:
+
+![image](https://user-images.githubusercontent.com/32280512/225751154-6771c445-3678-4685-86e0-277904890469.png)
