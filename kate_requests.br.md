@@ -3,7 +3,7 @@
 ### VERMELHO[DELETADO]
 ___
 
-## 1 - Ícone circle quando editando arquivo
+## 1 - Ícone circle pra fechar arquivo AZUL enquanto editando arquivo
 - [ ] estado
 
 1. quando começo a editar o arquivo, o ícone do botão de fechar o arquivo vira um círculo no Lapce, quando salvo ele volta a ser um círculo com um x no meio
