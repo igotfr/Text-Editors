@@ -27,7 +27,7 @@ no lapce, não, mas axo qe tem como configurar, no meu, ele só fecha sem pergun
 
 o lapce tem command palette, mas é F1 e não Ctrl+ Alt + i
 
-## 2 - cores vinculadas à diff de commits em nomes de arquivos e linhas: VERDE[NOVO], AZUL[EDITADO], VERMELHO[DELETADO]
+## 2 - cores vinculadas à diff de commits (ou não) em nomes de arquivos e linhas: VERDE[NOVO], AZUL[EDITADO], VERMELHO[DELETADO]
 - [ ] estado
 
 2. uma cor pra indicar qe um arquivo foi criado ou editado, tanto em Documentos, quanto em Projetos
