@@ -1,7 +1,14 @@
+### VERDE[NOVO]
+### AZUL[EDITADO]
+### VERMELHO[DELETADO]
+___
+
 ## 1 - Ícone circle quando editando arquivo
 - [ ] estado
 
 1. quando começo a editar o arquivo, o ícone do botão de fechar o arquivo vira um círculo no Lapce, quando salvo ele volta a ser um círculo com um x no meio
+
+minha sugestão é qe apenas a cor do ícone mude de vermelho pra azul enquanto editando o arqivo, o x pode ser mantido
 
 > Isso seria só um indicador de que o arquivo tá editado?
 
