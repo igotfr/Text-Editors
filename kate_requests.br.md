@@ -1,4 +1,4 @@
-## 1
+## 1 - Ícone circle quando editando arquivo
 1. quando começo a editar o arquivo, o ícone do botão de fechar o arquivo vira um círculo no Lapce, quando salvo ele volta a ser um círculo com um x no meio
 
 > Isso seria só um indicador de que o arquivo tá editado?
@@ -25,7 +25,7 @@ no lapce, não, mas axo qe tem como configurar, no meu, ele só fecha sem pergun
 
 o lapce tem command palette, mas é F1 e não Ctrl+ Alt + i
 
-## 2
+## 2 - cores vinculadas à diff de commits em nomes de arquivos e linhas: VERDE[NOVO], AZUL[EDITADO], VERMELHO[DELETADO]
 2. uma cor pra indicar qe um arquivo foi criado ou editado, tanto em Documentos, quanto em Projetos
 
 a cor pode ser colocada ao redor do nome do arquivo (como eu prefiro), embora o Lapce mude a cor do nome do arquivo
@@ -40,7 +40,7 @@ eles usam azul pra arquivos/pastas editados e verde pra arquivos/pastas criadas,
 
 ![image](https://user-images.githubusercontent.com/32280512/225744865-08903799-895a-4ca8-8dd4-c6a53c1ed8db.png)
 
-## 3
+## 3 - Ocultar/Mostrar painéis 'Arquivo, Editar, Seleção, Exibir, Ir, ...' e 'Novo, Abrir, Salvar, Salvar Como, Desfazer, Refazer'
 3. Ocultar/Mostrar o painel 'Arquivo, Editar, Seleção, Exibir, Ir, ...'
 
 Ocultar/Mostrar o painel 'Novo, Abrir, Salvar, Salvar Como, Desfazer, Refazer'
@@ -48,3 +48,5 @@ Ocultar/Mostrar o painel 'Novo, Abrir, Salvar, Salvar Como, Desfazer, Refazer'
 individualmente e com opções visuais clicáveis pra executar essas tarefas. Elas podem ficar no painel de baixo, na esquerda ou na direita, não sei bem
 
 Vi qe a Barra de Ferramentas principal pode ser oculta, mas a outra não, e não gostei de onde as opções pra isso foram colocadas, elas ficam meio escondidas
+
+## 4 - 
