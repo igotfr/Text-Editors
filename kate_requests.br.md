@@ -102,7 +102,7 @@ poder dividir o terminal. konsole já possui isso embutido, no lapce:
 ## 9 - Terminal: abrir na vertical
 - [ ] estado
 
-possibilidade de abrir o terminal na vertical. konsole já possui isso embutido
+possibilidade de abrir o terminal na vertical
 
 se encontra isso em https://zed.dev/ em Beauty from within
 
