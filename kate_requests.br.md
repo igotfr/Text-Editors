@@ -81,7 +81,7 @@ mostra erro direto no código, no lapce isso funciona sem nenhum plugin adiciona
 ## 6 - Colorized Nested Brackets
 - [ ] estado
 
-extensão do vscode (esse o lapce não tem embutido) pra colorir nested brackets
+no vscode (esse o lapce não tem embutido) pra colorir nested brackets
 
 ![image](https://user-images.githubusercontent.com/32280512/225983395-4bd84a23-25bf-4cac-8277-6c9ba0784801.png)
 
