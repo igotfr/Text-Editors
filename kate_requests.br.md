@@ -92,7 +92,19 @@ poder abrir múltiplas abas em terminal, no lapce:
 
 ![image](https://user-images.githubusercontent.com/32280512/225984138-f13f1219-e511-43b1-a25f-64f98552c462.png)
 
-## 8 - Terminal: abrir na horizontal
+## 8 - Terminal: abrir na vertical
 - [ ] estado
 
 possibilidade de abrir o terminal na vertical
+
+se encontra isso em https://zed.dev/ em Beauty from within
+
+tbm nesse vídeo sobre zed, dos 15:23 em diante:
+
+https://www.youtube.com/watch?v=ejRdLq1fk6U&t=923s
+
+## 9 - Terminal: abrir numa aba
+- [ ] estado
+
+possibilidade de abrir o terminal numa aba
+
