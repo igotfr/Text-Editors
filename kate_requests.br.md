@@ -108,3 +108,6 @@ https://www.youtube.com/watch?v=ejRdLq1fk6U&t=923s
 
 possibilidade de abrir o terminal numa aba
 
+se encontra isso nesse vídeo sobre zed a partir dos 16:50:
+
+https://www.youtube.com/watch?v=Vvb1Tsew74M&t=1011s
