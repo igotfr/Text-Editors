@@ -69,7 +69,7 @@ Vi qe a Barra de Ferramentas principal pode ser oculta, mas a outra não, e não
 
 ![image](https://user-images.githubusercontent.com/32280512/225751154-6771c445-3678-4685-86e0-277904890469.png)
 
-isso pode ser opcional e determinado por alguma opção no terminal
+isso pode ser opcional e determinado por alguma opção no comando de terminal, ou na opção de Abrir com
 
 ## 5 - Error lens
 - [ ] estado
