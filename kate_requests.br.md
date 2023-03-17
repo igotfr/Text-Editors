@@ -92,7 +92,14 @@ poder abrir múltiplas abas em terminal, no lapce:
 
 ![image](https://user-images.githubusercontent.com/32280512/225984138-f13f1219-e511-43b1-a25f-64f98552c462.png)
 
-## 8 - Terminal: abrir na vertical
+## 8 - Terminal: dividir o terminal
+- [ ] estado
+
+poder dividir o terminal, no lapce:
+
+![image](https://user-images.githubusercontent.com/32280512/225995901-96428c58-5fe1-47d1-bf66-5d45514e7c91.png)
+
+## 9 - Terminal: abrir na vertical
 - [ ] estado
 
 possibilidade de abrir o terminal na vertical
@@ -103,7 +110,7 @@ tbm nesse vídeo sobre zed, dos 15:23 em diante:
 
 https://www.youtube.com/watch?v=ejRdLq1fk6U&t=923s
 
-## 9 - Terminal: abrir numa aba
+## 10 - Terminal: abrir numa aba
 - [ ] estado
 
 possibilidade de abrir o terminal numa aba
