@@ -88,21 +88,21 @@ no vscode (esse o lapce não tem embutido) pra colorir nested brackets
 ## 7 - Terminal: múltiplas Abas
 - [ ] estado
 
-poder abrir múltiplas abas em terminal, no lapce:
+poder abrir múltiplas abas em terminal. konsole já possui isso embutido, no lapce:
 
 ![image](https://user-images.githubusercontent.com/32280512/225984138-f13f1219-e511-43b1-a25f-64f98552c462.png)
 
 ## 8 - Terminal: dividir o terminal
 - [ ] estado
 
-poder dividir o terminal, no lapce:
+poder dividir o terminal. konsole já possui isso embutido, no lapce:
 
 ![image](https://user-images.githubusercontent.com/32280512/225995901-96428c58-5fe1-47d1-bf66-5d45514e7c91.png)
 
 ## 9 - Terminal: abrir na vertical
 - [ ] estado
 
-possibilidade de abrir o terminal na vertical
+possibilidade de abrir o terminal na vertical. konsole já possui isso embutido
 
 se encontra isso em https://zed.dev/ em Beauty from within
 
