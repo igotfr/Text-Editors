@@ -68,3 +68,15 @@ Vi qe a Barra de Ferramentas principal pode ser oculta, mas a outra não, e não
 4. no lapce, sempre qe abro um novo Projeto, ele não abre uma nova janela como no kate, fica tudo na mesma janela, assim:
 
 ![image](https://user-images.githubusercontent.com/32280512/225751154-6771c445-3678-4685-86e0-277904890469.png)
+
+isso pode ser opcional e determinado por alguma opção no terminal
+
+## 5 - Error lens
+- [ ] estado
+
+mostra erro direto no código, no lapce isso funciona sem nenhum plugin adicional, só o LSP
+
+![image](https://user-images.githubusercontent.com/32280512/225979404-2e562aae-96bd-4a66-96c0-c5970e750562.png)
+
+## 6 - Colorized Nested Brackets
+- [ ] estado
