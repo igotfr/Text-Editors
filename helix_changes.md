@@ -60,3 +60,25 @@ Key | Description | Command
 `k`, `Ctrl-k`, `Up` | Move to split above | `jump_view_up`
 `l`, `Ctrl-l`, `Right` | Move to right split | `jump_view_right`
 
+#### Space mode
+##### Popup
+Key | Description
+--- | -----------
+`Ctrl-u` | Scroll up
+`Ctrl-d` | Scroll down
+
+## Insert mode
+Key | Description | Command
+--- | ----------- | -------
+`Ctrl-s` | Commit undo checkpoint | `commit_undo_checkpoint`
+`Ctrl-x` | Autocomplete | `completion`
+`Ctrl-w`, `Alt-Backspace` | Delete previous word | `delete_word_backward`
+
+Key | Description | Command
+--- | ----------- | -------
+`Ctrl-r` | Insert a register content | `insert_register`
+`Ctrl-u` | Delete to start of line | `kill_to_line_start`
+`Ctrl-k` | Delete to end of line | `kill_to_line_end`
+`Ctrl-h`, `Backspace` | Delete previous char | `delete_char_backward`
+`Ctrl-d`, `Delete` | Delete next char | `delete_char_forward`
+`Ctrl-j`, `Enter` | Insert new line | `insert_newline`
