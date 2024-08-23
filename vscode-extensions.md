@@ -3,6 +3,8 @@ Bracket Pair Colorizer
 
 Error Lens
 
+Console Ninja
+
 Thunder Client
 
 Visual Studio IntelliCode
